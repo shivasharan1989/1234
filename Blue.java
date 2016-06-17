@@ -1,4 +1,4 @@
-package tttt;
+
 
 public class Blue {
 
